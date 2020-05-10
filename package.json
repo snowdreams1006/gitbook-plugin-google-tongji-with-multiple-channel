@@ -1,6 +1,6 @@
 {
     "name": "gitbook-plugin-google-tongji-with-multiple-channel",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "GitBook plugin that use Google Analytics to analyze website traffic, support for independent analysis of multiple channels, a source code deployed in multiple independent analysis.",
     "main": "index.js",
     "engines": {
