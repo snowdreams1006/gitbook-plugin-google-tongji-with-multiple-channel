@@ -78,7 +78,10 @@
         "google-tongji-with-multiple-channel": {
             "url": "https://www.googletagmanager.com/gtag/js",
             "multipleChannelConfig": {
-                 "snowdreams1006.gitbook.io":{
+                "localhost":{
+                    "token": "UA-140787039-3"
+                },
+                "snowdreams1006.gitbook.io":{
                     "token": "UA-140787039-1"
                 },
                 "snowdreams1006.github.io":{
@@ -100,9 +103,3 @@
         }
     }
 }
-
-
-
-
-
-
