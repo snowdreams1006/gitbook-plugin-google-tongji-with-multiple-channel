@@ -65,8 +65,8 @@
             "copyProtect": false
         },
         "mygitalk": {
-            "clientID": "dddbf6539f8f8ca57cef",
-            "clientSecret": "45e8bbcbb62b09d93f471d53e55568d7a1370b0f",
+            "clientID": "4b3bf9afefe80b5bc364",
+            "clientSecret": "98fc173dca00caca7bfba236433d4c28d5906f70",
             "repo": "gitbook-plugin-google-tongji-with-multiple-channel",
             "owner": "snowdreams1006",
             "admin": ["snowdreams1006"],
