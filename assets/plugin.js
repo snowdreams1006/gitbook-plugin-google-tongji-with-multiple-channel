@@ -33,7 +33,7 @@ require(["gitbook"], function(gitbook) {
             useData.push("window.dataLayer = window.dataLayer || [];");
             useData.push("function gtag(){dataLayer.push(arguments);}");
             useData.push("gtag('js', new Date());");
-            useData.push("gtag('config', "+ token + ");");
+            useData.push("gtag('config', '"+ token + "');");
             usejs.innerHTML = useData.join("\n");
             var gtag = document.getElementsByTagName("script")[1];
             gtag.parentNode.insertBefore(usejs, gtag);
