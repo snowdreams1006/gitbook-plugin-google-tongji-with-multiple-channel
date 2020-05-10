@@ -1,0 +1,51 @@
+{
+    "name": "gitbook-plugin-google-tongji-with-multiple-channel",
+    "version": "0.1.0",
+    "description": "GitBook plugin that use Google Analytics to analyze website traffic, support for independent analysis of multiple channels, a source code deployed in multiple independent analysis.",
+    "main": "index.js",
+    "engines": {
+        "gitbook": ">=2.5.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel.git"
+    },
+    "keywords": [
+        "gitbook-plugin-google-tongji-with-multiple-channel",
+        "gitbook-plugin",
+        "google-tongji-with-multiple-channel",
+        "google-tongji",
+        "tongji",
+        "google-analytics",
+        "analytics"
+    ],
+    "gitbook": {
+        "properties": {
+            "token": {
+                "description": "Google Analytics token",
+                "required": false,
+                "type": "string"
+            },
+            "url": {
+                "description": "Google Analytics Url",
+                "default": "https://www.googletagmanager.com/gtag/js",
+                "required": false,
+                "type": "string"
+            },
+            "multipleChannelConfig": {
+                "description": "Google Analytics Multi-channel Configuration",
+                "required": false,
+                "type": "object"
+            }
+        }
+    },
+    "author": {
+        "name": "snowdreams1006",
+        "email": "snowdreams1006@163.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel/issues"
+    },
+    "homepage": "https://snowdreams1006.github.io/gitbook-plugin-google-tongji-with-multiple-channel/"
+}

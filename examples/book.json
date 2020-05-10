@@ -1,0 +1,14 @@
+{
+    "title": "google-tongji-with-multiple-channel plugin demo document",
+    "author": "snowdreams1006",
+    "description": "gitbook-plugin-google-tongji-with-multiple-channel plugin demo document",
+    "gitbook": "3.2.3",
+    "plugins": [
+        "google-tongji-with-multiple-channel"
+    ],
+    "pluginsConfig": {
+        "google-tongji-with-multiple-channel": {
+            "token": "UA-140787039-1"
+        }
+    }
+}
