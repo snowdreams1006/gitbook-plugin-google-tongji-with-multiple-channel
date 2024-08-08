@@ -12,12 +12,6 @@
 
 > GitBook plugin that use Google Analytics to analyze website traffic, support for independent analysis of multiple channels, a source code deployed in multiple independent analysis.
 
-### 🏠 [Homepage](https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel)
-
-- Github : [https://snowdreams1006.github.io/gitbook-plugin-google-tongji-with-multiple-channel/](https://snowdreams1006.github.io/gitbook-plugin-google-tongji-with-multiple-channel/)
-- GitLab: [https://snowdreams1006.gitlab.io/gitbook-plugin-google-tongji-with-multiple-channel/](https://snowdreams1006.gitlab.io/gitbook-plugin-google-tongji-with-multiple-channel/)
-- Gitee : [https://snowdreams1006.gitee.io/gitbook-plugin-google-tongji-with-multiple-channel/](https://snowdreams1006.gitee.io/gitbook-plugin-google-tongji-with-multiple-channel/)
-
 ## Preview
 
 **Usage**
@@ -282,6 +276,8 @@ Contributions, issues and feature requests are welcome! Feel free to check [issu
 ## Show your support
 
 Give a [Star](https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel) if this project helped you!
+
+![snowdreams1006-wechat-donate.jpg](https://snowdreams1006.github.io/snowdreams1006-wechat-donate.jpg)
 
 ## Copyright
 
