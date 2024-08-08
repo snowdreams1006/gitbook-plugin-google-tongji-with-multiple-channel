@@ -43,14 +43,6 @@
             "image": "https://snowdreams1006.github.io/snowdreams1006-wechat-open.png",
             "copyProtect": false
         },
-        "mygitalk": {
-            "clientID": "4b3bf9afefe80b5bc364",
-            "clientSecret": "98fc173dca00caca7bfba236433d4c28d5906f70",
-            "repo": "gitbook-plugin-google-tongji-with-multiple-channel",
-            "owner": "snowdreams1006",
-            "admin": ["snowdreams1006"],
-            "distractionFreeMode": false
-        },
         "icp": {
             "label": "&copy snowdreams1006 版权所有",
             "number": "浙ICP备18042346号",
