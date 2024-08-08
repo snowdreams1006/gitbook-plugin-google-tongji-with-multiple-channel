@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gitbook-plugin-baidu-tongji-with-multiple-channel": "^0.1.0",
+    "gitbook-plugin-copyright": "^0.4.1",
+    "gitbook-plugin-favicon-absolute": "^0.1.1",
+    "gitbook-plugin-google-tongji-with-multiple-channel": "^0.1.0",
+    "gitbook-plugin-icp": "^0.2.1",
+    "gitbook-plugin-last-update-time": "^1.1.5",
+    "gitbook-plugin-readmore": "^1.3.1"
+  }
+}

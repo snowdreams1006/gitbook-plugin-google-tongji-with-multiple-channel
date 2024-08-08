@@ -10,12 +10,8 @@
     },
     "plugins": [
         "favicon-absolute",
-        "github-buttons",
-        "edit-link-plus",
-        "code",
         "readmore",
         "copyright",
-        "mygitalk",
         "icp",
         "google-tongji-with-multiple-channel"
     ],
@@ -33,23 +29,6 @@
                 "120x120": "/apple-touch-icon-precomposed-120.png",
                 "180x180": "/apple-touch-icon-precomposed-180.png"
             }
-        },
-        "github-buttons": {
-            "buttons": [{
-                "user": "snowdreams1006",
-                "repo": "gitbook-plugin-google-tongji-with-multiple-channel",
-                "type": "star",
-                "size": "small"
-            }]
-        },
-        "edit-link-plus": {
-            "base": {
-              "snowdreams1006.github.io":"https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel/edit/master/docs",
-              "snowdreams1006.gitlab.io":"https://gitlab.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel/edit/master/docs",
-              "snowdreams1006.gitee.io":"https://gitee.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel/edit/master/docs"
-            },
-            "defaultBase": "https://github.com/snowdreams1006/gitbook-plugin-google-tongji-with-multiple-channel/edit/master/docs",
-            "label": "FeedBack"
         },
         "readmore": {
             "blogId": "15702-1569305559839-744",
@@ -73,7 +52,9 @@
             "distractionFreeMode": false
         },
         "icp": {
-            "number": "浙ICP备18042346号"
+            "label": "&copy snowdreams1006 版权所有",
+            "number": "浙ICP备18042346号",
+            "link": "https://beian.miit.gov.cn/"
         },
         "google-tongji-with-multiple-channel": {
             "url": "https://www.googletagmanager.com/gtag/js",
